@@ -1,4 +1,4 @@
-# cat-of-the-day-newtab.github.io/bing
-Cat of the day + Bing Search new tab page
+# cat-of-the-day-newtab.github.io/google
+Cat of the day + Google Search new tab page
 
-A simple Bing Search bar with a Cat of the Day iframe from https://catoftheday.com/
+A simple Google Search bar with a Cat of the Day iframe from https://catoftheday.com/
